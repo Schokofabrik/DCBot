@@ -21,4 +21,4 @@ client.on('presenceUpdate', (oldMember,newMember) => {
     }
 });
 
-client.login('OTEzOTI1MDY4MDcyMDQ2NjE0.YaFlDA.jahFRoT-1xE4vmBEsOUYV1hFqxk');
+client.login('');
